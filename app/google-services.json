@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "909981200147",
+    "firebase_url": "https://sodium-daylight-216503.firebaseio.com",
+    "project_id": "sodium-daylight-216503",
+    "storage_bucket": "sodium-daylight-216503.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909981200147:android:a6e88fa661d331d1",
+        "android_client_info": {
+          "package_name": "recycler.htn.recyclerfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909981200147-ldn8d7qdv4h8lgbcuqhv5ejlvqafsub9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "recycler.htn.recyclerfinder",
+            "certificate_hash": "b8841089e62e8d87b5e6d87586989c5d22b1cbd9"
+          }
+        },
+        {
+          "client_id": "909981200147-860lar7r51rs454t3fu45ca2mk2j693a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgCC4H5lXcSNiFl4XsXPozoGcGiKni-vw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909981200147-860lar7r51rs454t3fu45ca2mk2j693a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
